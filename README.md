@@ -1,1 +1,3 @@
-# colour-cruiser-boat
+# The Colour Cruiser is a prototyped toy boat that, upon turning a switch, propels itself along the water and releases a stream of colourful bath dye. The toy was developed by myself and three other group mates as part of our ME100 design class.
+# The cruiser moves along a non-linear path from a propellor and rudder that is controlled by a servo motor. The bath dye is placed in a side chamber with servo-operated doors that open as the boat moves along the water.
+# Our goal was to create a feasible prototype that had potential to become a real toy that enhanced the bath time experience for young children. Resultantly, we gained much knowledge and skills regarding electrical and mechanical systems design, as well as programming these components to carry out designated tasks.
